@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+body {
+    font-family: "Special Elite", system-ui;
+}
+
+header {
+    justify-content: center;
+    text-align: center;
+}
+
+.blog {
+    border-color: rgb(130, 133, 133);
+    border-width: 3px;
+    border-style: dashed;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.blog-title {
+    font-weight: bold;
+    font-style: italic;
+    font-size: large;
+}
+
+.blog-content {
+    font-size: medium;
+}
